@@ -20,7 +20,7 @@
 ### 🌐 Web Development
 - HTML  
 - CSS  
-- Basic JavaScript  
+- JavaScript  
 
 ### 🔌 Network Services
 - IP  
